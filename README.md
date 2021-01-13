@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dim145.Dim145)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dim145&hide_border=true&theme=radical&show_icons=true&count_private=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dim145&layout=compact&hide_border=true&theme=radical&show_icons=true&count_private=true"  width="350" />
+<img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Dim145&hide_border=true&theme=radical&show_icons=true&count_private=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dim145&layout=compact&hide_border=true&theme=radical&show_icons=true&count_private=true"  width="350" />
