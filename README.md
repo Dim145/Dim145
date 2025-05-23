@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Dim145&repo=Dim145&countColor=%237B1E7A) -->
-![](https://analytics.dim145.fr/telemetry/cmb1b1euc0001zslxx7fylif3/cmb1b3dv70004zslxf135dv55/badge.svg)
+![](https://analytics.dim145.fr/telemetry/cmb1b1euc0001zslxx7fylif3/cmb1b3dv70004zslxf135dv55/badge.svg?url=https://github.com/Dim145)
 
 
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Dim145&hide_border=true&theme=radical&show_icons=true&count_private=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dim145&layout=compact&hide_border=true&theme=radical&show_icons=true&count_private=true&langs_count=6&hide=javascript"  width="350" />
