@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Dim145&repo=Dim145&countColor=%237B1E7A)
-<script defer src="https://umami.dim145.fr/script.js" data-website-id="c0f9357c-0cd7-4552-a742-d1870bfd42bc"></script>
+
 
 <img width="420" align="center" src="https://github-readme-stats.vercel.app/api?username=Dim145&hide_border=true&theme=radical&show_icons=true&count_private=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dim145&layout=compact&hide_border=true&theme=radical&show_icons=true&count_private=true&langs_count=6&hide=javascript"  width="350" />
